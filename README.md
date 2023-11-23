@@ -40,7 +40,7 @@ https://github.com/amireskandariii/clothsimulation/assets/129678832/502ff523-00a
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/bezier-catmull-interpolation.git`
+1. Clone the repository: `git clone https://github.com/amireskandariii/clothsimulation`
 2. Navigate to the project directory.
 3. Install requirements with `pip install -r requirements.txt` or `pip3 install -r requirements.txt`.
 
