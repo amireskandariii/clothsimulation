@@ -45,3 +45,19 @@ This project is a physics-based cloth simulation implemented using a spring mass
 ## Examples
 
 Videos of the cloth simulation with different configurations are included in.
+
+Configuration for each video is as below:
+-**1**
+```
+k = 0.8
+c = 0.02
+g = 0.005
+dt = 0.33
+```
+-**2**
+```
+k = 1.2
+c = 0.08
+g = 0.005
+dt = 0.33
+```
